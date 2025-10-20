@@ -1,4 +1,3 @@
-cd C:\Users\ludwm\Desktop\privat\fitness-blog-final
 git init
 git add .
 git commit -m "Initial commit"
