@@ -1,3 +1,4 @@
+cd /Pfad/zu/fitness-blog-final
 git init
 git add .
 git commit -m "Initial commit"
